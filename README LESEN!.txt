@@ -1,0 +1,1 @@
+Bitte Readme für Bauanleitung lesen
