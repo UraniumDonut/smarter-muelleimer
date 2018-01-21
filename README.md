@@ -2,12 +2,12 @@
 Public project by Leon Bartle and Sascha Haag for a school project.
 
 Parts:
-Raspberry Pi Zero
-4 M6 Schrauben
-5V 5mW Laser (bevorzugt Rot)
-Kondensator 1uF 50V
-Photoresistor 
-Mülleimer ¯\_༼ ಥ ‿ ಥ ༽_/¯
+-Raspberry Pi Zero
+-4 M6 Schrauben
+-5V 5mW Laser (bevorzugt Rot)
+-Kondensator 1uF 50V
+-Photoresistor 
+-Mülleimer ¯\_༼ ಥ ‿ ಥ ༽_/¯
 
 
 3d Modell Ausdrucken und mit vier M6 Schrauben an Eimer befestigen. 
