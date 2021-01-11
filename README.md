@@ -5,15 +5,15 @@ Parts:
 
 -Raspberry Pi Zero
 
--4 M6 Schrauben
+-4 M6 Screws
 
--5V 5mW Laser (bevorzugt Rot)
+-5V 5mW Laser (i used red)
 
--Kondensator 1uF 50V
+-Capacitor 1uF 50V
 
 -Photoresistor 
 
--Mülleimer ¯\_༼ ಥ ‿ ಥ ༽_/¯
+-Trash can 
 
 
 
